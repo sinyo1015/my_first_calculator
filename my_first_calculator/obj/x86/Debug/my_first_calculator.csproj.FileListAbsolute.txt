@@ -1,0 +1,5 @@
+/home/sinyo/Projects/my_first_calculator/my_first_calculator/bin/Debug/my_first_calculator.exe
+/home/sinyo/Projects/my_first_calculator/my_first_calculator/bin/Debug/my_first_calculator.pdb
+/home/sinyo/Projects/my_first_calculator/my_first_calculator/obj/x86/Debug/my_first_calculator.csprojAssemblyReference.cache
+/home/sinyo/Projects/my_first_calculator/my_first_calculator/obj/x86/Debug/my_first_calculator.exe
+/home/sinyo/Projects/my_first_calculator/my_first_calculator/obj/x86/Debug/my_first_calculator.pdb
